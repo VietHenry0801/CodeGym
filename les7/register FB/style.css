@@ -1,0 +1,37 @@
+.container {
+    border: 1px solid #afafaf45;
+    width: 432px;
+    height: 495px;
+    background-color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    width: 400 px;
+    height: 37.6px;
+    margin: 0;
+}
+
+.name {
+    display: inline;
+    padding: 11px;
+    width: 170px;
+    height: 11px;
+    border-radius: 7px;
+}
+
+.birthday {
+    height: 35px;
+    width: 129px;
+    border-radius: 7px;
+}
+
+.same {
+    width: 388px;
+    height: 28px;
+    border-radius: 7px;
+}
+
+a {
+    text-decoration: none;
+}
