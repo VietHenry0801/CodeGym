@@ -1,0 +1,40 @@
+ /* .color {
+    color: blue;
+}
+
+#t1 {
+    width: 100%;
+    height: 500px;
+    background-color: rgb(189, 189, 233);
+     border-width: 3px;
+    border-color: blueviolet;
+    border-style: solid; 
+    border: 30px solid blueviolet;
+    box-sizing: border-box;
+    ko thay đổi kích thước box khi thay đổi độ lớn đường viền 
+    border-radius: 12px;
+}  */
+ 
+ table {
+     width: 500px;
+     border: 1px solid #666666;
+     border-collapse: collapse;
+ }
+ 
+ td,
+ th {
+     border: 1px solid #666666;
+     padding: 10px;
+ }
+ 
+ #d1 {
+     background-color: rgb(203, 161, 241);
+ }
+ 
+ #d2 {
+     background-color: burlywood;
+ }
+ 
+ #d3 {
+     background-color: cornsilk;
+ }
